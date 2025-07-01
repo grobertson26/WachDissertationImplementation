@@ -1,0 +1,9 @@
+IoX ID,Descriptor,Parameterization
+IoX_B1,Off-command,Torque: 0.5 Nm<br>Rotation: roll<br>Position: 0 degrees<br>Direction: clockwise
+IoX_B2,On-command 1,Torque: 0.5 Nm<br>Rotation: roll<br>Position(s): 120 degrees<br>Direction: counter-clockwise
+IoX_B3,On-command 2,Torque: 0.5 Nm<br>Rotation: roll<br>Position(s): 240 degrees<br>Direction: counter-clockwise
+IoX_B4,On-command 3,Torque: 0.5 Nm<br>Rotation: roll<br>Position(s): 120 degrees<br>Direction: clockwise
+IoX_B5,No-light,Lumen: <0.5 lm
+IoX_B6,Yellow-light 1,Wavelength: 590 nm [yellow]<br>Lumen: 250 lm
+IoX_B7,Yellow-light 2,Wavelength: 590 nm [yellow]<br>Lumen: 750 lm
+IoX_C1,Water,Pressure: 1-6 atm<br>Humidity: 0-100%

@@ -1,0 +1,6 @@
+IoX ID,Descriptor,Parameterization
+IoX_A1,Off-trigger,N/A
+IoX_A2,On-trigger,Lumen: <0.5
+IoX_A3,No-light,N/A
+IoX_A4,Firefly light,Color: yellow<br>Wavelength: 590 nm<br>Lumen: 325 lm
+IoX_C1,Water,Pressure: 1-5 atm<br>Humidity: 0-100%

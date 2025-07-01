@@ -1,0 +1,8 @@
+IoX ID,Descriptor,Parameterization
+IoX_B1,Green to Red,Torque: 0.5 Nm<br>Rotation: roll<br>Position: 0 degrees<br>Direction: clockwise
+IoX_B2,Red to Green,Torque: 0.5 Nm<br>Rotation: roll<br>Position(s): 120 degrees<br>Direction: counter-clockwise
+IoX_B3,Green to Blue,Torque: 0.5 Nm<br>Rotation: roll<br>Position(s): 240 degrees<br>Direction: counter-clockwise
+IoX_B4,Blue to Green,Torque: 0.5 Nm<br>Rotation: roll<br>Position(s): 120 degrees<br>Direction: clockwise
+IoX_B5,Red Ink,Wavelength: 650 nm [red]
+IoX_B6,Green Ink,Wavelength: 510 nm [green]
+IoX_B7,Blue Ink,Wavelength: 475 nm [blue]

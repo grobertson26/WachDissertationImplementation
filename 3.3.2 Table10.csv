@@ -1,0 +1,5 @@
+IoX ID,Descriptor,Parameterization
+IoX_S1,Off-command,N/A
+IoX_S2,On-command,N/A
+IoX_S3,No-light,Lumen:<0.5 lm
+IoX_S4,Blue-light,"Wavelength: 450-495 nm [blue]<br>Lumen: 200-1,000 lm"

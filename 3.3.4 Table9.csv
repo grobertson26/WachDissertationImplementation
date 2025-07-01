@@ -1,0 +1,7 @@
+IoX ID,Descriptor,Parameterization
+IoX_A1,Off-command,Torque: 0.5 Nm<br>Rotation: roll<br>Position: 0 degrees<br>Direction: clockwise
+IoX_A2,On-command,Torque: 0.5 Nm<br>Rotation: roll<br>Position(s): 120 degrees<br>Direction: counter-clockwise
+IoX_A3,No-light,Lumen: <0.5 lm
+IoX_A4,Blue-light,Wavelength: 475 nm [blue]<br>Lumen: 400 lm
+IoX_A5,No-power,Voltage: <0.01 V
+IoX_A6,Power,Voltage: 5 V

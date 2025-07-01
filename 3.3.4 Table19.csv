@@ -1,0 +1,5 @@
+IoX ID,Descriptor,Parameterization
+IoX_A1,Off-trigger,N/A
+IoX_A2,On-trigger,N/A
+IoX_A3,No-light,Lumen: <0.5 lm
+IoX_A4,Firefly light,Color: yellow<br>Wavelength: 590 nm<br>Lumen: 325 lm

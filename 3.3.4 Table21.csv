@@ -1,0 +1,5 @@
+IoX ID,Descriptor,Parameterization
+IoX_A1,Off-command,N/A
+IoX_A2,On-command,N/A
+IoX_A3,Radio-off,Lumen: <0.5
+IoX_A4,Radio-on,N/A

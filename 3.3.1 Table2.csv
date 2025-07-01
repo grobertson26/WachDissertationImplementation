@@ -1,0 +1,6 @@
+IoX ID,Descriptor,Parameterization
+IoX _S1,Off-command,N/A
+IoX _S2,On-command,N/A
+IoX _S3,No-light,Lumen:<0.5 lm
+IoX _S4,Yellow-light,"Wavelength: 570-590 nm[yellow]<br>Lumen: 200-1,000 lm"
+IoX _S5,Water,Pressure: 1-5 atm<br>Humidity: 0-100%
