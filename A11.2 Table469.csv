@@ -1,0 +1,6 @@
+VRPS2_IoX,VRPS2_Parameterization,VM15_IoX,VM15_Parameterization
+Off-command,N/A,N/A,N/A
+On-command,N/A,N/A,N/A
+No-light,Lumen:<0.5 lm,N/A,N/A
+Yellow-light,"Wavelength:570-590 nm[yellow]; Lumen:200-1,000",N/A,N/A
+N/A,N/A,Water,Pressure:1-5 atm; Humidity:0-100%

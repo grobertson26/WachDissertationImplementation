@@ -1,0 +1,6 @@
+VRPS1_IoX,VRPS1_Parameterization,VM8_IoX,VM8_Parameterization
+Cold,N/A,Off-command,Torque: 0.5 Nm; Rotation: roll; Position: 0 deg; Dir:clockwise; 
+Heat,N/A,On-command,Torque: 0.5 Nm; Rotation: roll; Pos:120 deg; Dir:counter-clockwise; 
+No-delicious smell,N/A,No-light,Lumen: <0.5 lm 
+Delicious smell,N/A,Blue-light,Wavelength: 475 nm [blue]; Lumen: 400 lm
+N/A,N/A,N/A,N/A

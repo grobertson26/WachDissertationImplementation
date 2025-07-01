@@ -1,0 +1,6 @@
+VRPS1_IoX,VRPS1_Parameterization,VM3_IoX,VM3_Parameterization
+Cold,N/A,Off-command,Force: 0.5 N 
+Heat,N/A,On-command,Force: 0.5 N 
+No-delicious smell,N/A,No-light,Lumen: <0.5 lm 
+Delicious smell,N/A,Yellow-light,Wavelength: 580 nm [yellow]; Lumen: 500 lm
+N/A,N/A,Water,Pressure: 1-5 atm; Humidity: 0-100% 

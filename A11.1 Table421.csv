@@ -1,0 +1,9 @@
+VRPS1_IoX,VRPS1_Parameterization,VM9_IoX,VM9_Parameterization
+Cold,N/A,Off-command,Torque: 0.5 Nm; Rotation: roll; Pos:0 deg; Dir:clockwise; 
+Heat,N/A,On-command 1,Torque: 0.5 Nm; Rotation: roll; Pos:120 deg; Dir:counter-clockwise; 
+Heat,N/A,On-command2,Torque: 0.5 Nm; Rotation: roll; Pos:240 deg; Dir:counter-clockwise; 
+Heat,N/A,On-command3,Torque: 0.5 Nm; Rotation: roll; Pos:120 deg; Dir:clockwise; 
+No-delicious smell,N/A,No-light,Lumen: <0.5 lm 
+Delicious smell,N/A,Wavelength: 590 nm [yellow]; Lumen:250 lm,Blue-light 1
+Delicious smell,N/A,Wavelength: 590 nm [yellow]; Lumen:750 lm,Blue-light 2
+N/A,N/A,N/A,N/A

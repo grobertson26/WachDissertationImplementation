@@ -1,0 +1,8 @@
+VRPS1_IoX,VRPS1_Parameterization,VM10_IoX,VM10_Parameterization
+Cold,N/A,Green to Red,Torque: 0.5 Nm; Rotation:roll; Pos:0 deg; Dir:clockwise; 
+Heat,N/A,Red to Green,Torque:0.5 Nm; Rotation:roll; Position(s): 120 deg; Direction: counter-clockwise; 
+Heat,N/A,Green to Blue,Torque:0.5 Nm; Rotation:roll; Position(s): 240 deg; Direction: counter-clockwise; 
+Heat,N/A,Blue to Green,Torque:0.5 Nm; Rotation:roll; Position(s): 120 deg; Direction: clockwise; 
+No-delicious smell,N/A,Red Ink,Wavelength: 650 nm [red]
+Delicious smell,N/A,Blue Ink,"Wavelength: 510 nm [green], 475 nm [blue] "
+N/A,N/A,N/A,N/A

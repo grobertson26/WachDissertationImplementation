@@ -1,0 +1,8 @@
+VRPS2_IoX,VRPS2_Parameterization,VM9_IoX,VM9_Parameterization
+Off-command,N/A,Off-command,Torque:0.5Nm;Rotation:roll;Pos:0 deg;Dir:cw;
+On-command,N/A,On-command1/2/3,Torque:0.5Nm;Rotation:roll;Pos:120 deg;Dir:ccw; 
+No-light,Lumen:<0.5 lm,No-light,Lumen:<0.5 lm
+Yellow-light,"Wavelength:570-590 nm[yellow]; Lumen:200-1,000",Blue-light 1,Wavelength:590 nm[yellow]; Lumen: 250 lm
+Yellow-light,"Wavelength:570-590 nm[yellow]; Lumen:200-1,000 lm",Blue-light 2,Wavelength:590 nm[yellow]; Lumen: 750 lm
+N/A,N/A,N/A,N/A
+,,,

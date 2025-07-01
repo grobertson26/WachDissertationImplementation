@@ -1,0 +1,6 @@
+VRPS2_IoX,VRPS2_Parameterization,VM11_IoX,VM11_Parameterization
+Off-command,N/A,Cold,N/A
+On-command,N/A,Hot,N/A
+No-light,Lumen:<0.5 lm,No delicious smell,N/A
+Yellow-light,"Wavelength:570-590 nm[yellow]; Lumen:200-1,000",Delicious,N/A
+N/A,N/A,N/A,N/A

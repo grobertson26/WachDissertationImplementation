@@ -1,0 +1,6 @@
+VRPS1_IoX,VRPS1_Parameterization,VM13_IoX,VM13_Parameterization
+Cold,N/A,Off-command,N/A
+Heat,N/A,On-command,N/A
+No-delicious smell,N/A,Radio-off,Lumen:<0.5 
+Delicious smell,N/A,Radio-on,N/A
+N/A,N/A,N/A,N/A

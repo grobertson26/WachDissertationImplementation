@@ -1,0 +1,6 @@
+VRPS1_IoX,VRPS1_Parameterization,VM16_IoX,VM16_Parameterization
+Cold,N/A,Off-trigger,N/A
+Heat,N/A,On-trigger,N/A
+No-delicious smell,N/A,No-light,Lumen:<0.5 lm
+Delicious smell,N/A,Firefly light,Wavelength:580 nm[yellow]; Lumen:325 lm 
+N/A,N/A,N/A,N/A

@@ -1,0 +1,7 @@
+VRPS1_IoX,VRPS1_Parameterization,VM2_IoX,VM2_Parameterization
+Cold,N/A,Off-command,Torque: 0.5 Nm; Rotation: roll; Position: 0 deg; Dir: clockwise; 
+Heat,N/A,On-command 1/2/3,"Torque: 0.5 Nm; Rotation: roll; Position(s):120 deg,240 deg; Dir:counter-clockwise; "
+No-delicious smell,N/A,No-light,Lumen: <0.5 lm 
+Delicious smell,N/A,Wavelength: 590 nm [yellow]; Lumen: 250 lm ;,(Yellow-light 1)
+Delicious smell,N/A,Wavelength: 590 nm [yellow]; Lumen: 750 lm;, (Yellow-light 2)
+N/A,N/A,Water,Pressure: 1-6 atm; Humidity: 0-100% 

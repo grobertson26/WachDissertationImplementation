@@ -1,0 +1,7 @@
+VRPS2_IoX,VRPS2_Parameterization,VM8_IoX,VM8_Parameterization
+Off-command,N/A,Off-command,Torque:0.5 Nm; Rotation:roll; Pos:0 deg;Dir:clockwise; 
+On-command,N/A,On-command,Torque:0.5 Nm; Rotation:roll; Pos:120 deg; Dir:ccw; 
+No-light,Lumen:<0.5 lm,No-light,Lumen:<0.5 lm 
+Yellow-light,"Wavelength:570-590 nm[yellow]; Lumen:200-1,000",Blue-light,Wavelength:475 nm[blue]; Lumen:400 lm; 
+N/A,N/A,N/A,N/A
+,,,
