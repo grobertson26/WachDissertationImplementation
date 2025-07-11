@@ -1,7 +1,0 @@
-PSF S3,"(X S3, Y S3, XY S3, F S3, P S3)",
-X S3,{IoX S1},
-Y S3,{IoX S3},
-XY_S3,"{XY-S1}; where,",
-,"XY-S1 = (IoX S1, IoX S3)",
-F S3,"{IF-S1, IF-S2}",
-P S3,"{(IoX S1, IF-S1), (IoX S3, IF-S2)}",
