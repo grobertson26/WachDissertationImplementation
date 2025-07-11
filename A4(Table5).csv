@@ -1,8 +1,0 @@
-PSF S5,"(X S5, Y S5, XY S5, F S5, P S5)",,
-X S5,"{IoX S1, IoX S5}",,
-Y S5,"{IoX S3, IoX S5}",,
-XY_S5,"{XY-S1, XY-S3}; where,",,
-,"XY-S1 = (IoX S1, IoX S3) and",,
-,"XY-S3 = (IoX S5, IoX S5)",,
-F S5,"{IF-S1, IF-S2, IF-S3}",,
-P S5,"{(IoX S1, IF-S1), (IoX S3, IF-S2), (IoX S5, IF-S3)}",,
