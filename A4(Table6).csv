@@ -1,0 +1,6 @@
+PSF S6,"(X S6, Y S6, XY S6, F S6, P S6)"
+X S6,"{IoX S2, IoX S5}"
+Y S6,"{IoX S4, IoX S5}"
+XY_S6,"{XY-S2, XY-S3}; where, XY-S2 = (IoX S2, IoX S4) and XY-S3 = (IoX S5, IoX S5)"
+F S6,"{IF-S1, IF-S2, IF-S3}"
+P S6,"{(IoX S2, IF-S1), (IoX S4, IF-S2), (IoX S5, IF-S3)}"
