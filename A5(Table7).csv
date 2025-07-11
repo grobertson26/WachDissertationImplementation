@@ -1,0 +1,8 @@
+Z_BE,"(S_BE, X_BE, Y_BE, N_BE, R_BE, F_BE, P_BE)",,,,,
+S_BE,"{S_BE1, S_BE2, S_BE3}",,,,,
+X_BE,"{IoX_B8, IoX_B9, IoX_B10}",,,,,
+Y_BE,"{IoX_B5, IoX_B6, IoX_B7}",,,,,
+N_BE,"{((S_BE1, IoX_B8), S_BE1), ((S_BE1, IoX_B9), S_BE2), ((S_BE1, IoX_B10), S_BE1), ((S_BE2, IoX_B8), S_BE1), ((S_BE2, IoX_B9), S_BE2), ((S_BE2, IoX_B10), S_BE3), ((S_BE3, IoX_B8), S_BE3), ((S_BE3, IoX_B9), S_BE2), ((S_BE3, IoX_B10), S_BE3)}",,,,,
+R_BE,"{(S_BE1, IoX_B5), (S_BE2, IoX_B6), (S_BE3, IoX_B7)}",,,,,
+F_BE,"{IF-B2, IF-B3}",,,,,
+P_BE,"{(IoX_B5, IF-B2), (IoX_B6, IF-B2), (IoX_B7, IF-B2), (IoX_B8, IF-B3), (IoX_B9, IF-B3), (IoX_B10, IF-B3)}",,,,,

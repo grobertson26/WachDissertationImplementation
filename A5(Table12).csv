@@ -1,0 +1,8 @@
+Z_BC1,"(S_BC1, X_BC1, Y_BC1, N_BC1, R_BC1, F_BC1, P_BC1)",,,,,,,
+S_BC1,"{S_BC1, S_BC2, S_BC3}",,,,,,,
+X_BC1,"{(IoX_B1, IoX_C1), (IoX_B2, IoX_C1), (IoX_B3, IoX_C1), (IoX_B4, IoX_C1)}",,,,,,,
+Y_BC1,"{(IoX_B5, IoX_C1), (IoX_B6, IoX_C1), (IoX_B7, IoX_C1)}",,,,,,,
+N_BC1,"{((S_B1, (IoX_B1, IoX_C1)), S_B1), ((S_B1, (IoX_B2, IoX_C1)), S_B2), ((S_B1, (IoX_B3, IoX_C1)), S_B1), ((S_B1, (IoX_B4, IoX_C1)), S_B1), ((S_B2, (IoX_B1, IoX_C1)), S_B1), ((S_B2, (IoX_B2, IoX_C1)), S_B2), ((S_B2, (IoX_B3, IoX_C1)), S_B3), ((S_B2, (IoX_B4, IoX_C1)), S_B2), ((S_B3, (IoX_B1, IoX_C1)), S_B3), ((S_B3, (IoX_B2, IoX_C1)), S_B3), ((S_B3, (IoX_B3, IoX_C1)), S_B3), ((S_B3, (IoX_B4, IoX_C1)), S_B2)}",,,,,,,
+R_BC1,"{(S_B1, (IoX_B5, IoX_C1)), (S_B2, (IoX_B6, IoX_C1)), (S_B3, (IoX_B7, IoX_C1))}",,,,,,,
+F_BC1,"{IF-B1, IF-B2, IF-C1}",,,,,,,
+P_BC1,"{(IoX_B1, IF-B1), (IoX_B2, IF-B1), (IoX_B3, IF-B1), (IoX_B4, IF-B1), (IoX_B5, IF-B2), (IoX_B6, IF-B2), (IoX_B7, IF-B2), (IoX_C1, IF-C1)}",,,,,,,

@@ -1,0 +1,8 @@
+Z_BD,"(S_BD, X_BD, Y_BD, N_BD, R_BD, F_BD, P_BD)",,,,,,
+S_BD,"{S_BD1, S_BD2, S_BD3}",,,,,,
+X_BD,"{IoX_B1, IoX_B2, IoX_B3, IoX_B4}",,,,,,
+Y_BD,"{IoX_B8, IoX_B9, IoX_B10}",,,,,,
+N_BD,"{((S_BD1, IoX_B1), S_BD1), ((S_BD1, IoX_B2), S_BD2), ((S_BD1, IoX_B3), S_BD1), ((S_BD1, IoX_B4), S_BD1), ((S_BD2, IoX_B1), S_BD1), ((S_BD2, IoX_B2), S_BD2), ((S_BD2, IoX_B3), S_BD3), ((S_BD2, IoX_B4), S_BD2), ((S_BD3, IoX_B1), S_BD3), ((S_BD3, IoX_B2), S_BD3), ((S_BD3, IoX_B3), S_BD3), ((S_BD3, IoX_B4), S_BD2)}",,,,,,
+R_BD,"{(S_BD1, IoX_B8), (S_BD2, IoX_B9), (S_BD3, IoX_B10)}",,,,,,
+F_BD,"{IF-B1, IF-B3}",,,,,,
+P_BD,"{(IoX_B1, IF-B1), (IoX_B2, IF-B1), (IoX_B3, IF-B1), (IoX_B4, IF-B1), (IoX_B8, IF-B3), (IoX_B9, IF-B3), (IoX_B10, IF-B3)}",,,,,,

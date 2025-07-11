@@ -1,0 +1,8 @@
+Z_AE,"(S_AE, X_AE, Y_AE, N_AE, R_AE, F_AE, P_AE)",,,
+S_AE,"{S_AE1, S_AE2}",,,
+X_AE,"{IoX_A5, IoX_A6}",,,
+Y_AE,"{IoX_A3, IoX_A4}",,,
+N_AE,"{((S_AE1, IoX_A5), S_AE1), ((S_AE1, IoX_A6), S_AE2), ((S_AE2, IoX_A5), S_AE1), ((S_AE2, IoX_A6), S_AE2)}",,,
+R_AE,"{(S_AE1, IoX_A3), (S_AE2, IoX_A4)}",,,
+F_AE,"{IF-A2, IF-A3}",,,
+P_AE,"{(IoX_A5, IF-A3), (IoX_A6, IF-A3), (IoX_A3, IF-A2), (IoX_A4, IF-A2)}",,,

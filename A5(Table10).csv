@@ -1,0 +1,8 @@
+Z_AC1,"(S_AC1, X_AC1, Y_AC1, N_AC1, R_AC1, F_AC1, P_AC1)",,,
+S_AC1,"{S_AC1, S_AC2}",,,
+X_AC1,"{(IoX_A1, IoX_C1), (IoX_A2, IoX_C1)}",,,
+Y_AC1,"{(IoX_A3, IoX_C1), (IoX_A4, IoX_C1)}",,,
+N_AC1,"{((S_A1, (IoX_A1, IoX_C1)), S_A1), ((S_A1, (IoX_A2, IoX_C1)), S_A2), ((S_A2, (IoX_A1, IoX_C1)), S_A1), ((S_A2, (IoX_A2, IoX_C1)), S_A2)}",,,
+R_AC1,"{(S_A1, (IoX_A3, IoX_C1)), (S_A2, (IoX_A4, IoX_C1))}",,,
+F_AC1,"{IF-A1, IF-A2, IF-C1}",,,
+P_AC1,"{(IoX_A1, IF-A1), (IoX_A2, IF-A1), (IoX_A3, IF-A2), (IoX_A4, IF-A2), (IoX_C1, IF-C1)}",,,

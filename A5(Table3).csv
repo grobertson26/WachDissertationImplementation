@@ -1,0 +1,8 @@
+Z_C,"(S_C, X_C, Y_C, N_C, R_C, F_C, P_C)",
+S_C,{S_C1},
+X_C,{IoX_C1},
+Y_C,{IoX_C1},
+N_C,"{((S_C1, IoX_C1), S_C1)}",
+R_C,"{(S_C1, IoX_C1)}",
+F_C,{IF-C1},
+P_C,"{(IoX_C1, IF-C1)}",

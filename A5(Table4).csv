@@ -1,0 +1,8 @@
+Z_AD,"(S_AD, X_AD, Y_AD, N_AD, R_AD, F_AD, P_AD)",,,
+S_AD,"{S_AD1, S_AD2}",,,
+X_AD,"{IoX_A1, IoX_A2}",,,
+Y_AD,"{IoX_A5, IoX_A6}",,,
+N_AD,"{((S_AD1, IoX_A1), S_AD1), ((S_AD1, IoX_A2), S_AD2), ((S_AD2, IoX_A1), S_AD1), ((S_AD2, IoX_A2), S_AD2)}",,,
+R_AD,"{(S_AD1, IoX_A5), (S_AD2, IoX_A6)}",,,
+F_AD,"{IF-A1, IF-A3}",,,
+P_AD,"{(IoX_A1, IF-A1), (IoX_A2, IF-A1), (IoX_A5, IF-A3), (IoX_A6, IF-A3)}",,,

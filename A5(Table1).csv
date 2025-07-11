@@ -1,0 +1,8 @@
+Z_A,"(S_A, X_A, Y_A, N_A, R_A, F_A, P_A)"
+S_A,"{S_A1, S_A2}"
+X_A,"{IoX_A1, IoX_A2}"
+Y_A,"{IoX_A3, IoX_A4}"
+N_A,"{(S_A1, IoX_A1, S_A1), (S_A1, IoX_A2, S_A2), (S_A2, IoX_A1, S_A1), (S_A2, IoX_A2, S_A2)}"
+R_A,"{(S_A1, IoX_A3), (S_A2, IoX_A4)}"
+F_A,"{IF-A1, IF-A2}"
+P_A,"{(IoX_A1, IF-A1), (IoX_A2, IF-A1), (IoX_A3, IF-A2), (IoX_A4, IF-A2)}"
