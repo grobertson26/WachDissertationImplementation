@@ -1,0 +1,4 @@
+XY#,IoX,N_trajectory,Final_R
+XY-S1,"(IoX_S1, IoX_S3)","((S_A2, IoX_A1), S_A1)","(S_A1, IoX_A3)"
+XY-S2,"(IoX_S2, IoX_S4)","((S_A1, IoX_A2), S_A2)","(S_A2, IoX_A4)"
+XY-S3,"(IoX_S5, IoX_S5)",N/A,N/A
